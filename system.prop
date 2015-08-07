@@ -12,6 +12,9 @@ rild.libpath=/system/lib/libril-qc-qmi-1.so
 rild.libargs=-d /dev/smd0
 ro.telephony.ril_class=HTCQualcommRIL
 
+#Enable NavBar by default (comment to disable or set height to 0 in settings)
+qemu.hw.mainkeys=0
+
 # OTG
 persist.sys.isUsbOtgEnabled=true
 
