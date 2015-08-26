@@ -13,9 +13,9 @@
   },
   {
     "remote":       "github",
-    "repository":   "CandyDevices/kernel_htc_msm8960",
+    "repository":   "CyanogenMod/android_kernel_htc_msm8960",
     "target_path":  "kernel/htc/msm8960",
-    "branch":       "c5.1"
+    "branch":       "cm-12.1"
   },
   {
     "remote":       "github",
